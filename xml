@@ -1,0 +1,26 @@
+<item>
+<title>LIG TV</title>
+<link>http://dsdsads</link>
+<thumbnail>http://www.his.gov.tr/resimler/haberler/17.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>TRT 1</title>
+<link>http://trt-i.mncdn.com/trt1/smil:trt1.smil/chunklist-b664000.m3u8?wowzasessionid=601640065
+</link>
+<thumbnail>http://www.trt.net.tr/img/logolar/2012/trt1_b.png</thumbnail>
+</item>
+
+<item>
+<title> TRT M</title>
+<link>http://sol.trtcdn.com/tv/trtmuzik/smil:trtmuzik.smil/playlist.m3u8
+</link>
+<thumbnail>http://www.trt.net.tr/img/logolar/2012/trtmuzik_b.png</thumbnail>
+</item>
+
+<item>
+<title> ATV </title>
+<link>http://85.132.44.99/turktv/atv-turkiye.sdp/stml.m3u8</link>
+<thumbnail>http://t2.gstatic.com/images?q=tbn:ANd9GcRygtw3atvGt5Gj-50ps6yDmL5nx-UQCNltmCrZMKywa31vk-hGtg</thumbnail>
+</item>
